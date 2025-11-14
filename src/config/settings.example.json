@@ -1,0 +1,5 @@
+{
+    "max_results": 500,
+    "request_delay": 1.0,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
